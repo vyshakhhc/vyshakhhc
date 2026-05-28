@@ -109,6 +109,14 @@ Angular (NgRx/Signals) ████████████░░░  80%
 
 ---
 
+## 🏆 Competitive programming
+
+- 🥇 **Google Code Jam 2021** — Qualified for Round 1
+- 💻 Active on LeetCode / Codeforces — [link your profile]
+- Strong foundation in data structures, algorithms, and problem solving
+
+---
+
 ## 📊 GitHub stats
 
 ![Vyshakh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyshakhhc&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
