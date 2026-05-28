@@ -112,7 +112,7 @@ Angular (NgRx/Signals) ████████████░░░  80%
 ## 🏆 Competitive programming
 
 - 🥇 **Google Code Jam 2021** — Qualified for Round 1
-- 💻 Active on LeetCode / Codeforces — [link your profile]
+- 💻 Active on LeetCode
 - Strong foundation in data structures, algorithms, and problem solving
 
 ---
